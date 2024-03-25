@@ -5,4 +5,16 @@
     { "id": 3, "text": "study", "isDone": false, "isEdit": false },
     { "id": 4, "text": "programing", "isDone": false, "isEdit": false }
   ]
+  "posts":[
+    {"id":1,"title":"title 1","author":"author 1","body":"body 1","image":"image 1"}
+    {"id":2,"title":"title 2","author":"author 2","body":"body 2","image":"image 2"}
+    {"id":3,"title":"title 3","author":"author 3","body":"body 3","image":"image 3"}
+    {"id":4,"title":"title 4","author":"author 4","body":"body 4","image":"image 4"}
+    {"id":5,"title":"title 5","author":"author 5","body":"body 5","image":"image 5"}
+    {"id":6,"title":"title 6","author":"author 6","body":"body 6","image":"image 6"}
+    {"id":7,"title":"title 7","author":"author 7","body":"body 7","image":"image 7"}
+    {"id":8,"title":"title 8","author":"author 8","body":"body 8","image":"image 8"}
+    {"id":9,"title":"title 9","author":"author 9","body":"body 9","image":"image 9"}
+    {"id":10,"title":"title 10","author":"author 10","body":"body 10","image":"image 10"}
+  ]
 }
